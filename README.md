@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/logo.svg" width="180" alt="VoltX logo" />
+  <img src="assets/logo.png" width="180" alt="VoltX logo" />
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ VoltX includes **VoltX Guard** which protects your system before applying tweaks
 ## Preview
 
 <p align="center">
-  <img alt="VoltX UI preview" src="screenshots/dashboard.svg" />
+  <img alt="VoltX UI preview" src="screenshots/dashboard.png" />
 </p>
 
 ---
