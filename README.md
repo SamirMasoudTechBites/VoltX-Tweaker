@@ -1,10 +1,8 @@
 <p align="center">
-
-<img src="assets/logo.png">
-
+  <img src="assets/logo.png" width="180">
 </p>
 
-<h1 align="center">VoltX</h1>
+<h1 align="center">⚡ VoltX</h1>
 
 <p align="center">
 <b>F*CK Windows Limits</b><br>
@@ -15,13 +13,12 @@ Unlock Your PC’s True Power
 VoltX transforms Windows into a performance machine — delivering lower latency, cleaner system performance, and smoother gameplay.
 </p>
 
----
-
 <p align="center">
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-7B3FE4?style=for-the-badge)
 ![Downloads](https://img.shields.io/github/downloads/SamirMasoudTechBites/VoltX-Tweaker/total?style=for-the-badge\&color=8b5cf6)
 ![Release](https://img.shields.io/github/v/release/SamirMasoudTechBites/VoltX-Tweaker?style=for-the-badge\&color=9333ea)
+![Stars](https://img.shields.io/github/stars/SamirMasoudTechBites/VoltX-Tweaker?style=for-the-badge\&color=7B3FE4)
 ![Status](https://img.shields.io/badge/Status-Active-a855f7?style=for-the-badge)
 
 </p>
@@ -44,12 +41,14 @@ VoltX transforms Windows into a performance machine — delivering lower latency
 
 VoltX optimizes Windows by removing unnecessary system overhead and applying performance tweaks designed for gamers.
 
+**Key Improvements**
+
 • Lower input latency
 • Reduce background processes
 • Improve frame stability
-• Faster startup
+• Faster startup times
 • Network optimization
-• Restore point protection
+• Automatic restore point protection
 
 ---
 
@@ -67,7 +66,7 @@ VoltX optimizes Windows by removing unnecessary system overhead and applying per
 
 VoltX includes **VoltX Guard** which protects your system before applying tweaks.
 
-Features:
+**Protection Features**
 
 • Automatic restore point creation
 • Safe rollback system
@@ -77,9 +76,9 @@ Features:
 
 # 💻 Requirements
 
-Windows 10 / Windows 11
-64-bit system
-Administrator privileges
+• Windows 10 / Windows 11
+• 64-bit system
+• Administrator privileges
 
 ---
 
@@ -89,9 +88,30 @@ Administrator privileges
 
 ---
 
-# 🌐 Community
+# 💜 VoltX Is 100% Free
+
+VoltX is **completely free to download and use**.
+There are **no hidden tweaks, no locked features, and no paywalls**.
+
+If VoltX helped you and you want to support development, you can donate via PayPal.
 
 <p align="center">
+
+<a href="https://paypal.me/TechBitesSamirMasoud">
+<img src="https://img.shields.io/badge/Support%20VoltX-PayPal-A855F7?style=for-the-badge&logo=paypal">
+</a>
+
+</p>
+
+---
+
+# 🌐 Community & Links
+
+<p align="center">
+
+<a href="https://voltxtweaks.netlify.app">
+<img src="https://img.shields.io/badge/VoltX-Official%20Website-7B3FE4?style=for-the-badge">
+</a>
 
 <a href="https://discord.gg/NHXEaefzAv">
 <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord">
@@ -114,7 +134,5 @@ While designed to be safe, always ensure you create backups before applying syst
 ---
 
 <p align="center">
-
-VoltX by **Samir Masoud**
-
+VoltX by <b>Samir Masoud</b>
 </p>
