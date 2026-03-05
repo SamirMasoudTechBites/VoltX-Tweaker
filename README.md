@@ -3,7 +3,7 @@
 <img src="assets/logo.png" width="220">
 
 </p>
-1
+
 <h1 align="center">VoltX</h1>
 
 <p align="center">
